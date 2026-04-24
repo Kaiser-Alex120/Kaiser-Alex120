@@ -21,7 +21,6 @@
 ## About Me
 
 - Economics Undergraduate (8th Semester) – Top 5%  
-- Coordinator of Econometric Models – DataPolis Investiga  
 - Research Assistant – Labor Market Nonlinearities  
 - RIEF Winter School Scholar (Economics & Finance)  
 
