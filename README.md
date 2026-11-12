@@ -53,43 +53,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-# GitHub Statistics
-
-<div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Kaiser-Alex120&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile)
-
-</div>
-
----
-
-### Top Languages
-
-<div align=center>
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaiser-Alex120&layout=compact&theme=github_dark)
-
-</div>
-
----
-
-### Streak Stats
-
-<div align=center>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaiser-Alex120&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### Activity Graph
-
-[![Piero's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaiser-Alex120&theme=react-dark)](https://github.com/Kaiser-Alex120)
-
----
 
 ## Contact
 
