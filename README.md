@@ -20,27 +20,12 @@
 
 ## About Me
 
-- Economics Undergraduate (8th Semester) – Top 5%  
-- Research Assistant – Labor Market Nonlinearities  
-- RIEF Winter School Scholar (Economics & Finance)  
-
-Focused on macroeconomic modeling, nonlinear econometrics, and quantitative financial analysis.
-
----
-
-## Research Interests
-
-- Dynamic Macroeconomics  
-- Nonlinear Time Series Models  
-- VAR / SVAR / VECM  
-- Regime Switching Models  
-- Asset Pricing & Portfolio Optimization  
-- Monte Carlo Simulation  
+- Economics Undergraduate (10th Semester) – Top 5%  
+- Data scientist aspiring 
 
 ---
 
 # Tech Stack
-
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
